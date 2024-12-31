@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WqzjnX4wBDg=",
+  "success": true,
+  "projectFilePath": "D:\\software final labtest\\final-test\\Library Application\\Library Application\\Library Application.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://packagesource'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

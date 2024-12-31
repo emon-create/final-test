@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\software final labtest\\final-test\\Library Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE233BAF-BFBA-4BAE-83F3-DF61D1832D58}|Library Application\\Library Application.csproj|d:\\software final labtest\\final-test\\library application\\library application\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BE233BAF-BFBA-4BAE-83F3-DF61D1832D58}|Library Application\\Library Application.csproj|solutionrelative:library application\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE233BAF-BFBA-4BAE-83F3-DF61D1832D58}|Library Application\\Library Application.csproj|d:\\software final labtest\\final-test\\library application\\library application\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE233BAF-BFBA-4BAE-83F3-DF61D1832D58}|Library Application\\Library Application.csproj|solutionrelative:library application\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\software final labtest\\final-test\\Library Application\\Library Application\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Library Application\\MainWindow.xaml",
+              "ToolTip": "D:\\software final labtest\\final-test\\Library Application\\Library Application\\MainWindow.xaml",
+              "RelativeToolTip": "Library Application\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-31T01:48:16.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\software final labtest\\final-test\\Library Application\\Library Application\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Library Application\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\software final labtest\\final-test\\Library Application\\Library Application\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Library Application\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T01:48:13.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

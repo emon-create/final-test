@@ -1,0 +1,20 @@
+D:\software final labtest\final-test\Library Application\Library Application\bin\Debug\net8.0-windows\Library Application.exe
+D:\software final labtest\final-test\Library Application\Library Application\bin\Debug\net8.0-windows\Library Application.deps.json
+D:\software final labtest\final-test\Library Application\Library Application\bin\Debug\net8.0-windows\Library Application.runtimeconfig.json
+D:\software final labtest\final-test\Library Application\Library Application\bin\Debug\net8.0-windows\Library Application.dll
+D:\software final labtest\final-test\Library Application\Library Application\bin\Debug\net8.0-windows\Library Application.pdb
+D:\software final labtest\final-test\Library Application\Library Application\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\software final labtest\final-test\Library Application\Library Application\obj\Debug\net8.0-windows\App.g.cs
+D:\software final labtest\final-test\Library Application\Library Application\obj\Debug\net8.0-windows\Library Application_MarkupCompile.cache
+D:\software final labtest\final-test\Library Application\Library Application\obj\Debug\net8.0-windows\Library Application_MarkupCompile.lref
+D:\software final labtest\final-test\Library Application\Library Application\obj\Debug\net8.0-windows\MainWindow.baml
+D:\software final labtest\final-test\Library Application\Library Application\obj\Debug\net8.0-windows\Library Application.g.resources
+D:\software final labtest\final-test\Library Application\Library Application\obj\Debug\net8.0-windows\Library Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\software final labtest\final-test\Library Application\Library Application\obj\Debug\net8.0-windows\Library Application.AssemblyInfoInputs.cache
+D:\software final labtest\final-test\Library Application\Library Application\obj\Debug\net8.0-windows\Library Application.AssemblyInfo.cs
+D:\software final labtest\final-test\Library Application\Library Application\obj\Debug\net8.0-windows\Library Application.csproj.CoreCompileInputs.cache
+D:\software final labtest\final-test\Library Application\Library Application\obj\Debug\net8.0-windows\Library Application.dll
+D:\software final labtest\final-test\Library Application\Library Application\obj\Debug\net8.0-windows\refint\Library Application.dll
+D:\software final labtest\final-test\Library Application\Library Application\obj\Debug\net8.0-windows\Library Application.pdb
+D:\software final labtest\final-test\Library Application\Library Application\obj\Debug\net8.0-windows\Library Application.genruntimeconfig.cache
+D:\software final labtest\final-test\Library Application\Library Application\obj\Debug\net8.0-windows\ref\Library Application.dll
